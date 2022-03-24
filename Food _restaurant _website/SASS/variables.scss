@@ -1,0 +1,39 @@
+// Color
+/* dark shades of primary color*/
+$clr-primary-1:#FF1128;
+$clr-primary-2: #FF1700;
+$clr-primary-3:#ff0707fd;
+$clr-primary-4:#F98404;
+$clr-primary-5:#e20000;
+/* lighter shades of primary color */
+$clr-primary-9:#FF6464;
+$clr-primary-10:#FFF5A5;
+/* darkest grey - used for headings */
+$clr-1: #F85959;
+$clr-2: #f74141;
+$clr-3: #ff1700;
+$clr-4: #FF4848;
+/* grey used for paragraphs */
+$clr-5: #FFBF86;
+$clr-6: #FFF47D;
+$clr-7: rgb(255, 253, 228);
+$clr-8: #ffb0b0;
+$clr-9: #fc6666;
+$clr-10: #dd6b6bfb;
+$clr-white: #fff;
+// $clr-red-dark: hsl(360, 67%, 44%);
+// $clr-red-light: hsl(360, 71%, 66%);
+// $clr-green-dark: hsl(125, 67%, 44%);
+// $clr-green-light: hsl(125, 71%, 66%);
+ $clr-secondary:#FF1700; ;
+$clr-black: #222;
+$light-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+$dark-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+// Font family
+$ff-primary: "Roboto", sans-serif;
+$ff-secondary: "Open Sans", sans-serif;
+$transition: all 0.3s linear;
+$spacing: 0.25rem;
+$radius: 0.5rem;
+$max-width: 1170px;
+$fixed-width: 620px;
